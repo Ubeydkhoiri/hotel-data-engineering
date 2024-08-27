@@ -1,0 +1,5 @@
+SQLAlchemy
+mysqlclient 
+python-dotenv 
+pandas
+pytest
